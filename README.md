@@ -9,7 +9,7 @@ I value clean code, solid fundamentals, and continuous learning, and I learn bes
 --
 
 🚀 What I’m Working On:
-🔹 CareerGPS (AI-Driven Project)
+- CareerGPS (AI-Driven Project)
 
 An **AI-powered career-path generation platform** designed to help students navigate skills, roles, and growth paths.
 Backend built with **Python & FastAPI**
@@ -53,18 +53,18 @@ This project reflects my interest in **combining AI with practical software engi
 --
 
 🔍 **Current Focus**
-Developing AI-integrated full-stack applications
-Strengthening system-level understanding
-Writing maintainable, scalable Python code
-Bridging embedded systems with intelligent software
+- Developing AI-integrated full-stack applications
+- Strengthening system-level understanding
+- Writing maintainable, scalable Python code
+- Bridging embedded systems with intelligent software
 
 --
 
 📌 **Interests**
-Developing AI-integrated full-stack applications
-Strengthening system-level understanding
-Writing maintainable, scalable Python code
-Bridging embedded systems with intelligent software
+- Developing AI-integrated full-stack applications
+- Strengthening system-level understanding
+- Writing maintainable, scalable Python code
+- Bridging embedded systems with intelligent software
 
 --
 
