@@ -49,7 +49,7 @@ This project reflects my interest in **combining AI with practical software engi
   - Git & GitHub
   - Linux
   - VS Code
-  - 
+
 --
 
 🔍 **Current Focus**
@@ -69,8 +69,8 @@ Bridging embedded systems with intelligent software
 --
 
 📫 **Connect**
-GitHub: https://github.com/alishabukhari
-LinkedIn: https://linkedin.com/in/alisha-bukhari
+- GitHub: https://github.com/alishabukhari
+- LinkedIn: https://linkedin.com/in/alisha-bukhari
 
 -- 
 
