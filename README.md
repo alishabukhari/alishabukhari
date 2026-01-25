@@ -1,39 +1,76 @@
-# Hi, I’m Alisha 👋
+alishabukhari/README.md
+--
+Hi, I’m Alisha
+I’m a Computer Engineering student with a strong interest in AI-integrated software systems, full-stack Python development, and hardware–software collaboration.
+I enjoy building **end-to-end projects**—from system logic and APIs to intelligent features that solve real problems.
 
-I’m a **Computer Engineer** with a strong focus on **software development and problem-solving**.  
-I enjoy building clean, structured applications and strengthening my understanding of core computing concepts through hands-on projects.
-
-I value clarity in code, solid fundamentals, and continuous learning.
+I value clean code, solid fundamentals, and continuous learning, and I learn best by designing, building, and iterating on real projects.
 
 --
 
-## 🛠️ Technical Skills
+🚀 What I’m Working On:
+🔹 CareerGPS (AI-Driven Project)
 
-- **Languages:** Python, C/C++
-- **Software Development:** Application logic, file handling, modular design
-- **Core Concepts:** Data structures, operating systems, basic networking
-- **Databases:** SQLite, JSON
-- **Tools:** Git, GitHub, Linux, VS Code
+An **AI-powered career-path generation platform** designed to help students navigate skills, roles, and growth paths.
+Backend built with **Python & FastAPI**
+Authentication, database integration, and system architecture
+Focus on **AI-assisted decision support**
+Designed as a scalable, real-world product
 
----
+This project reflects my interest in **combining AI with practical software engineering** to create meaningful user-focused tools.
 
-## 🔍 Current Focus
+--
 
-- Writing maintainable and efficient Python applications  
-- Strengthening C/C++ fundamentals  
-- Improving system-level understanding and software design skills  
+🛠️ **Technical Skills**
+**Languages:**
+  - Python
+  - C/C++
+  - Next.js
 
----
+**Software & Backend Development:**
+  - API design (FastAPI)
+  - Application logic & modular design
+  - File handling & structured codebases
 
-## 📌 Interests
+**AI & Intelligent Systems**
+  - AI-assisted application workflows
+  - Data-driven logic and system reasoning
+  - Building AI-integrated featured (project-based)
 
-- Building practical software tools  
-- Learning through implementation  
-- Creating well-documented, meaningful projects  
+**Embedded & Systems Foundations**
+  - Micrcontrollers & sensors
+  - Hardware-software integration
+  - Strong understanding of core computing concepts
 
----
+**Databases:**
+  - SQLite
+  - JSON
+**Tools:**
+  - Git & GitHub
+  - Linux
+  - VS Code
+  - 
+--
 
-## 📫 Connect
+🔍 **Current Focus**
+Developing AI-integrated full-stack applications
+Strengthening system-level understanding
+Writing maintainable, scalable Python code
+Bridging embedded systems with intelligent software
 
-- GitHub: https://github.com/alishabukhari
-- LinkedIn: https://linkedin.com/in/alisha-bukhari
+--
+
+📌 **Interests**
+Developing AI-integrated full-stack applications
+Strengthening system-level understanding
+Writing maintainable, scalable Python code
+Bridging embedded systems with intelligent software
+
+--
+
+📫 **Connect**
+GitHub: https://github.com/alishabukhari
+LinkedIn: https://linkedin.com/in/alisha-bukhari
+
+-- 
+
